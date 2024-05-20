@@ -1,0 +1,1 @@
+pyinstaller --onefile --name robot --add-data ~/miniconda3/lib/python3.1/site-packages/mediapipe/modules:mediapipe/modules  manual_robot.py
